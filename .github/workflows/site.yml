@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Upptime
-        uses: upptime/status-page@v1.38.3
+        uses: upptime/status-page@v1.17.0
         with:
           command: "site"
         env:
