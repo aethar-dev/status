@@ -27,10 +27,6 @@ status-website:
       href: https://wageapi.com
     - title: Console
       href: https://console.aethar.dev
-    - title: API Docs (Salary)
-      href: https://salary.wageapi.com/api/docs
-    - title: API Docs (Cost)
-      href: https://col.wageapi.com/api/docs
 
 workflowSchedule:
   graphs: "0 0 * * *"
