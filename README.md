@@ -4,10 +4,10 @@ Automated uptime monitoring and status page for Aethar APIs, powered by [Upptime
 
 ## Services Monitored
 
-| Service | URL |
-|---------|-----|
-| WageAPI | salary.wageapi.com/api |
-| CostAPI | col.wageapi.com/api |
-| Aethar Console | console.aethar.dev |
-| WageAPI Staging | staging-api.wageapi.com |
+| Service         | URL                         |
+| --------------- | --------------------------- |
+| WageAPI         | salary.wageapi.com/api      |
+| CostAPI         | col.wageapi.com/api         |
+| Aethar Console  | console.aethar.dev          |
+| WageAPI Staging | staging-api.wageapi.com     |
 | CostAPI Staging | staging-costapi.wageapi.com |
