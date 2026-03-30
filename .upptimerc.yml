@@ -1,0 +1,49 @@
+owner: aethar-dev
+repo: status
+sites:
+  - name: WageAPI
+    url: https://salary.wageapi.com/api/health
+    icon: https://wageapi.com/favicon.ico
+  - name: WageAPI Staging
+    url: https://staging-api.wageapi.com/health
+    icon: https://wageapi.com/favicon.ico
+  - name: CostAPI
+    url: https://col.wageapi.com/api/health
+  - name: CostAPI Staging
+    url: https://staging-costapi.wageapi.com/health
+  - name: Aethar Console
+    url: https://console.aethar.dev
+  - name: Aethar Landing
+    url: https://wageapi.com
+
+status-website:
+  cname: status.aethar.dev
+  name: Aethar Status
+  introTitle: "Aethar API Status"
+  introMessage: "Real-time status and uptime monitoring for all Aethar APIs and services."
+  theme: dark
+  navbar:
+    - title: Homepage
+      href: https://wageapi.com
+    - title: Console
+      href: https://console.aethar.dev
+    - title: API Docs (Salary)
+      href: https://salary.wageapi.com/api/docs
+    - title: API Docs (Cost)
+      href: https://col.wageapi.com/api/docs
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  uptime: "*/5 * * * *"
+
+assignees:
+  - macstarosielec
+
+i18n:
+  activeIncidents: Active Incidents
+  noActiveIncidents: All systems operational
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved
