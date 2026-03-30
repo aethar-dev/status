@@ -4,13 +4,8 @@ sites:
   - name: WageAPI
     url: https://salary.wageapi.com/api/health
     icon: https://wageapi.com/favicon.ico
-  - name: WageAPI Staging
-    url: https://staging-api.wageapi.com/health
-    icon: https://wageapi.com/favicon.ico
   - name: CostAPI
     url: https://col.wageapi.com/api/health
-  - name: CostAPI Staging
-    url: https://staging-costapi.wageapi.com/health
   - name: Aethar Console
     url: https://console.aethar.dev
   - name: Aethar Landing
