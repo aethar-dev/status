@@ -4,37 +4,19 @@
     "url": "https://salary.wageapi.com/api/health",
     "icon": "https://wageapi.com/favicon.ico",
     "slug": "wage-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 620,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "WageAPI Staging",
-    "url": "https://staging-api.wageapi.com/health",
-    "icon": "https://wageapi.com/favicon.ico",
-    "slug": "wage-api-staging",
     "status": "down",
-    "uptime": "0.71%",
-    "uptimeDay": "0.71%",
-    "uptimeWeek": "0.71%",
-    "uptimeMonth": "0.71%",
-    "uptimeYear": "0.71%",
-    "time": 600,
-    "timeDay": 600,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 660,
+    "timeDay": 660,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-03-30": 2
+      "2026-03-30": 0
     }
   },
   {
@@ -56,43 +38,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "CostAPI Staging",
-    "url": "https://staging-costapi.wageapi.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/staging-costapi.wageapi.com.ico",
-    "slug": "cost-api-staging",
-    "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-03-30": 2
-    }
-  },
-  {
     "name": "Aethar Console",
     "url": "https://console.aethar.dev",
     "icon": "https://icons.duckduckgo.com/ip3/console.aethar.dev.ico",
     "slug": "aethar-console",
     "status": "down",
-    "uptime": "2.38%",
-    "uptimeDay": "2.38%",
-    "uptimeWeek": "2.38%",
-    "uptimeMonth": "2.38%",
-    "uptimeYear": "2.38%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 1186,
     "timeDay": 1186,
     "timeWeek": 1186,
     "timeMonth": 1186,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2026-03-30": 2
+      "2026-03-30": 230
     }
   },
   {
