@@ -23,7 +23,7 @@ status-website:
     - title: Homepage
       href: https://wageapi.com
     - title: Console
-      href: https://console.aethar.dev
+      href: https://app.wageapi.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
