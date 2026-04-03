@@ -9,9 +9,9 @@ sites:
   - name: SkillsAPI
     url: https://skills.wageapi.com/api/health
   - name: Portal API
-    url: https://api.wageapi.com/health
+    url: https://console.aethar.dev/api/health
   - name: Aethar Console
-    url: https://app.wageapi.com
+    url: https://console.aethar.dev
   - name: Aethar Landing
     url: https://wageapi.com
 
