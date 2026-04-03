@@ -8,6 +8,8 @@ sites:
     url: https://col.wageapi.com/api/health
   - name: SkillsAPI
     url: https://skills.wageapi.com/api/health
+  - name: Portal API
+    url: https://api.wageapi.com/health
   - name: Aethar Console
     url: https://app.wageapi.com
   - name: Aethar Landing
