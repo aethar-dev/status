@@ -11,7 +11,11 @@ sites:
   - name: Portal API
     url: https://console.aethar.dev/api/health
   - name: Aethar Console
-    url: https://console.aethar.dev
+    url: https://console.aethar.dev/login
+    expectedStatusCodes: [200]
+  - name: Aethar Console (staging)
+    url: https://staging-console.aethar.dev/login
+    expectedStatusCodes: [200, 401]
   - name: Aethar Landing
     url: https://wageapi.com
 
