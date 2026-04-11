@@ -1,7 +1,7 @@
 url: https://skills.wageapi.com/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-11T09:56:29.221Z
+status: up
+code: 200
+responseTime: 706
+lastUpdated: 2026-04-11T10:26:37.817Z
 startTime: 2026-04-02T03:18:58.999Z
 generator: Upptime <https://github.com/upptime/upptime>
