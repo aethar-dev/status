@@ -1,7 +1,7 @@
 url: https://console.aethar.dev/api/health
-status: down
-code: 502
-responseTime: 803
-lastUpdated: 2026-06-09T14:01:01.878Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2026-06-09T18:36:16.291Z
 startTime: 2026-04-03T15:25:00.407Z
 generator: Upptime <https://github.com/upptime/upptime>
